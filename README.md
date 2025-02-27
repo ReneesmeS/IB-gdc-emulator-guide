@@ -1,6 +1,6 @@
 # IB GDC Calculator Emulation Guide 🖩
 
-*A community guide for emulating the IB-approved GDC calculator on desktop/mobile devices for educational purposes.  
+*A community guide for emulating the IB-approved GDC calculator on desktop/mobile devices for educational purposes.*  
 
 ---
 
@@ -10,14 +10,23 @@
 - You **must own a physical IB GDC calculator** to use this guide **legally**.  
 - ROM/flash files are **copyrighted material**.
 - Distributing or using copyrighted files without permission is illegal.  
-- This guide is for **educational purposes only**. Use at your own risk.
+- This guide is for **educational purposes only**.
 - **Do not share downloaded files publicly.**  
+
+---
+
+## 🖥️ Platform Notes
+- **Windows/macOS/Linux/Android**: Fully supported.  
+- **iOS**: Jailbreaking required *(not recommended)*.
 
 ---
 
 ## 🔗 Full Detailed Guide
 For comprehensive instructions, refer to:  
-**[How to Emulate TI-Nspire CX CAS Touchpad on Mac/Windows/Linux with Firebird](https://www.intereseducation.com/resources/how-to-emulate-ti-nspire-cx-cas-touchpad-on-mac-windows-linux-with-firebird/)** 
+**[How to Emulate TI-Nspire CX CAS Touchpad on Mac/Windows/Linux with Firebird](https://www.intereseducation.com/resources/how-to-emulate-ti-nspire-cx-cas-touchpad-on-mac-windows-linux-with-firebird/)**  
+
+For the Chinese version of this guide, visit:  
+**[IB GDC计算器模拟指南 (中文版)](README_CN.md)**  
 
 ---
 
@@ -60,10 +69,3 @@ For comprehensive instructions, refer to:
    - Wait for the emulator to load (may take 1-2 minutes).  
 
    ![Installation](step2-install.png)  
-
----
-
-## 🖥️ Platform Notes
-- **Windows/macOS/Linux**: Fully supported.  
-- **Android**: Use [Firebird-Android](https://github.com/nspire-emus/firebird-android).  
-- **iOS**: Jailbreaking required *(not recommended)*.  
