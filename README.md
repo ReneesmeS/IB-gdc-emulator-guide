@@ -47,7 +47,7 @@ For comprehensive instructions, refer to:
    - **Flash**: Select the `Flash` file you downloaded.  
    - Ignore "Snapshot" for now. Click **OK**.  
 
-   ![Configuration](assets/img/step1-configure.png)  
+   ![Configuration](step1-configure.png)  
 
 ---
 
@@ -59,7 +59,7 @@ For comprehensive instructions, refer to:
    - When prompted, press **`I`** on the keyboard to initialize.  
    - Wait for the emulator to load (may take 1-2 minutes).  
 
-   ![Installation](assets/img/step2-install.png)  
+   ![Installation](step2-install.png)  
 
 ---
 
