@@ -27,9 +27,7 @@ For comprehensive instructions, refer to:
 1. **Download Firebird Emulator**:  
    - Visit [Firebird Releases](https://github.com/nspire-emus/firebird/releases/latest).  
    - Download the correct version for your OS (Windows/macOS/Linux).  
-   - Unzip the files into a folder (e.g., `firebird-emu`).  
-
-   ![Download Firebird](assets/img/step0-download.png)  
+   - Unzip the files into a folder (e.g., `firebird-emu`).   
 
 2. **Acquire Boot1 and Flash Files**:  
    - Follow **[this external guide](https://www.intereseducation.com/resources/how-to-emulate-ti-nspire-cx-cas-touchpad-on-mac-windows-linux-with-firebird/)** *(Note: We do not endorse or host these files)*.  
